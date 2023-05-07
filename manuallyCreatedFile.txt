@@ -1,3 +1,5 @@
 i m adding text using notepad
 hello world
 this is too cool
+
+trying to close an issue by giving its resolution
